@@ -46,7 +46,7 @@ def show_result():
     result_label.pack(pady=10)
 
     try:
-        original_image = Image.open("chitoge.png")
+        original_image = Image.open("imagens\chitoge.png")
         resized_image = original_image.resize((400, 400))  # Ajuste para o tamanho desejado
         image = ImageTk.PhotoImage(resized_image)
         image_width, image_height = image.width(), image.height()   
