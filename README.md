@@ -1,11 +1,13 @@
 # MindReader
 
-Código em python que acabei fazendo por estar entendiado e ter um tempo livre.
-Para rodar (pelo menos no VS Code) basta ir no terminal e: 
-
+Código em python que acabei fazendo por estar entendiado e ter um tempo livre. <br>
+Para rodar (pelo menos no VS Code) basta ir no terminal e: <br>
+```bash
+python main.py
+```
 Talvez outro dia eu aprimore a aplicação e a deixe mais legal.
 
 <p align="center">
-  <img src="imagens/nice.png" alt="AAA" width="300">
+  <img height="300" src="imagens/aaaa.png">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
